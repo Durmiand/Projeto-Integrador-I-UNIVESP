@@ -1,0 +1,38 @@
+2.5. Aplicação das disciplinas estudadas no Projeto Integrador 72
+3.  RESULTADOS 75
+3.1. Solução inicial 75
+3.1.1. Especificações das Tecnologias Utilizadas 75
+3.1.2. Diagramas da Solução 77
+3.1.3. Esquematização do Banco de Dados 77
+3.1.4. Layout de Telas 79
+3.1.5. Funcionalidades da Solução Inicial 81
+3.2. Solução Final 82
+3.2.1. Feedback da Comunidade e Mudanças 83
+3.2.2. Funcionalidades da Solução Final 85
+3.2.3. Código Fonte e Versionamento 90
+3.2.4. Possibilidade de Expansão e Melhorias 91
+4.  CONSIDERAÇÕES FINAIS 92
+
+Figura 15 – Documentação do Projeto pelo Notion 76
+Figura 16 – Diagrama da Solução (LucidChart) 77
+Figura 17 – Fluxograma do Banco de Dados 78
+Figura 18 – Relacionamento de Chaves Primárias e Estrangeira 78
+Figura 18 – Funcionamento da Base de Dados (DB Browser for SQLite) 79
+Figura 19 – Protótipo de Interface do Usuário - Login (FluidUI) 80
+Figura 20 – Protótipo de Interface do Usuário - Tela Inicial (FluidUI) 80
+Figura 21 – Protótipo de Interface do Usuário - Funcionalidades (FluidUI) 81
+Figura 22 – Pesquisa sobre Situações de Aprendizagem - Pergunta 1  83
+Figura 23 – Pesquisa sobre Situações de Aprendizagem - Pergunta 2 84
+Figura 24 – Pesquisa sobre Situações de Aprendizagem - Pergunta 3 84
+Figura 25 – Pesquisa sobre Situações de Aprendizagem - Pergunta 4 85
+Figura 26 – Solução Final – Tela de Cadastro de Usuário 86
+Figura 27 – Solução Final – Tela de Administração do Django 86
+Figura 28 – Solução Final – Tela de Unidades Curriculares 87
+Figura 29 – Solução Final – Tela de Situações de Aprendizagem 88
+Figura 30 – Solução Final – Tela de Observações, Download e Comentários 89
+Figura 31 – Solução Final – Tela de Avaliação 89
+Figura 32 – Solução Final – Tela de Moderação do Administrador 90
+Figura 33 – Versionamento com Git e Github – Branch Final 91
+Figura 34 – Exemplo de Possível Funcionalidade 92
+
+
