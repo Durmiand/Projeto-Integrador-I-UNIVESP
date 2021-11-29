@@ -1,4 +1,4 @@
-Projeto Integrador I - UNIVESP 2021
+Projeto Integrador I - Engenharia da Computação - Polo Tiquatira - UNIVESP 2021
 
 Desenvolvimento de sistema para auxílio na concepção e compartilhamento de planos de aula - SysPa
 
